@@ -1,2 +1,2 @@
 # HelloWrldTest
-Premier test de Git
+Premier test de Git et de ses opérations.
